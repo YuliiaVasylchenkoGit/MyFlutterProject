@@ -1,3 +1,5 @@
 {
-    "items" : ["title" : "some title"]
+    "items": [
+        "title": "some title"
+    ]
 }

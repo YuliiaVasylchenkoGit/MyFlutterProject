@@ -1,8 +1,8 @@
 {
-  "items":[
-    {"title":"Наварити дітей",
-    "bgcolor":"FF8080"},
-    {"title":"Нарожати борщу",
-    "bgcolor":"D5FF80"}
+  "items": [
+    {"title" : "Наварити дітей",
+    "bgcolor" : "FF8080"},
+    {"title" : "Нарожати борщу",
+    "bgcolor" : "D5FF80"}
   ]
 }
